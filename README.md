@@ -43,7 +43,7 @@ Specifying the context and requirements of a system
 ```
 <img width="1920" height="1080" alt="643213025-2f322e56-130f-4daf-b97e-48803ddb5e32" src="https://github.com/user-attachments/assets/a1b2e632-9316-454f-b6e2-9f6b0fa5b7fc" />
 ```
-
+```
 # CLASS DIAGRAM
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
@@ -57,6 +57,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+```
 ```
 <img width="1920" height="1080" alt="643213025-2f322e56-130f-4daf-b97e-48803ddb5e32" src="https://github.com/user-attachments/assets/13f64d84-40fc-482e-bdec-980551b14fa9" />
 ```
