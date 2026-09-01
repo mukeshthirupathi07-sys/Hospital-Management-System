@@ -39,12 +39,10 @@ Defining and organizing functional requirements in a system
 Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
-
-
-
-
-
-
+```
+```
+<img width="1920" height="1080" alt="643213025-2f322e56-130f-4daf-b97e-48803ddb5e32" src="https://github.com/user-attachments/assets/a1b2e632-9316-454f-b6e2-9f6b0fa5b7fc" />
+```
 
 # CLASS DIAGRAM
 
@@ -59,17 +57,20 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
-
-
-
+```
+<img width="1920" height="1080" alt="643213025-2f322e56-130f-4daf-b97e-48803ddb5e32" src="https://github.com/user-attachments/assets/13f64d84-40fc-482e-bdec-980551b14fa9" />
+```
+```
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
-
-
-
+```
+```
+<img width="1043" height="548" alt="643213101-acdd1065-7d0a-41c9-a7d0-41106499fbb2" src="https://github.com/user-attachments/assets/bfd94a88-9ab6-492d-9220-ba911991ad8a" />
+```
+```
 
 # PACKAGE DIAGRAM:
 
@@ -78,13 +79,11 @@ Package diagrams are structural diagrams used to show the organization and arran
 organization of the layered architecture within any UML classifier, such as a software system.
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
-
-
-
-
-
-
-
+```
+```
+<img width="1037" height="547" alt="643213118-919612e8-b8f1-40e1-b9eb-3d7540ff11d1" src="https://github.com/user-attachments/assets/88337fe4-f93c-4407-861e-401012630a19" />
+```
+```
 
 # ACTIVITY DIAGRAM:
 
@@ -98,9 +97,11 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
-
+```
+```
+<img width="1041" height="547" alt="643213133-c78cc830-8e30-452c-a641-b764bd82916a" src="https://github.com/user-attachments/assets/a134a2ae-9021-4bb5-92f1-0b5a2c848b0a" />
+```
+```
 
 # SEQUENCE DIAGRAM
 
@@ -118,12 +119,11 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
-
-
-
-
-
-
+```
+```
+<img width="1041" height="552" alt="643213159-4d4d3d34-e562-49a9-97e4-a74ce1f02427" src="https://github.com/user-attachments/assets/ea5bfecd-75a8-4955-b46a-11ae298e3002" />
+```
+```
 # RESULT
 
 Thus the project to develop Hospital Management system was developed using Star UML Software is done successfully.
